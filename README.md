@@ -1,8 +1,11 @@
 Gorbuscha21_transcriptome
 
 Supplemental Data 1: Raw counts (ctm_male.csv, ctm_female.csv)
+
 Supplemental Data 2: Filtered gene groups (maleGene-filtered.xlsx, femaleFene-filtered.xlsx)
+
 Supplemental Data 3: Differential Gene expression across migratory stages (Male_FOP_DEG.xlsx, Female_FOP_DEG.xlsx)
+
 Supplemental Data 4: Gene Ontology of filtered groups - Folders (MaleGeneOntology, FemaleGeneOntolgy)
 
 
