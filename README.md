@@ -1,5 +1,11 @@
 Gorbuscha21_transcriptome
 
+Supplemental Data 1: Raw counts (ctm_male.csv, ctm_female.csv)
+Supplemental Data 2: Filtered gene groups (maleGene-filtered.xlsx, femaleFene-filtered.xlsx)
+Supplemental Data 3: Differential Gene expression across migratory stages (Male_FOP_DEG.xlsx, Female_FOP_DEG.xlsx)
+Supplemental Data 4: Gene Ontology of filtered groups - Folders (MaleGeneOntology, FemaleGeneOntolgy)
+
+
 #script detailing how data was extracted, analyzed, and organized.
 #the story to this code begin upon download of paired-end sequence reads from an Illumina system to the WSU computational network, Kamiak cluster. Access is through the terminal , so we will begin using linux functions. Note, this txt file , while keeping all the script, may require minor reformatting to account for changes in organization.
 
